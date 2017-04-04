@@ -32,7 +32,7 @@ added to enable support for new features.
 These fields must be optional and should be ignored by clients and servers
 that do not understand them.
 
-## Changes Since v2.10
+### Changes Since v2.10
 
 * Add <tt>bindable</tt> field to [Plan Object](#PObject) to allow services to have both bindable and non-bindable plans.
 
