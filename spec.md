@@ -1,7 +1,7 @@
 # Table of Contents
   - [Changes](#changes)
     - [Change Policy](#change-policy)
-    - [Changes Since v2.10](#since-v2.10)
+    - [Changes Since v2.10](#changes-since-v2.10)
   - [API Overview](#api-overview)
   - [API Version Header](#version-header)
   - [Authentication](#authentication)
